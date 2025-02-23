@@ -17,21 +17,12 @@ Here are some of the projects I've been working on:
    - Description: A brief description of what this project is about.
    - Technologies: List of technologies used.
 
-2. **[Project Name 2](https://github.com/krisha-1012/project-name-2)**
-   - Description: A brief description of what this project is about.
-   - Technologies: List of technologies used.
-
-3. **[Project Name 3](https://github.com/krisha-1012/project-name-3)**
-   - Description: A brief description of what this project is about.
-   - Technologies: List of technologies used.
-
 ## Contact Me
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **Email:** [krisha@example.com](mailto:krisha@example.com)
-- **LinkedIn:** [Krisha's LinkedIn](https://www.linkedin.com/in/krisha-1012)
-- **Twitter:** [Krisha's Twitter](https://twitter.com/krisha-1012)
+- **Email:** [timbadiakrisha@example.com](mailto:timbadiakrisha@example.com)
+- **LinkedIn:** [Krisha's LinkedIn](https://www.linkedin.com/in/krisha-timbadia)
 
 ## GitHub Statistics
 
