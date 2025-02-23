@@ -21,8 +21,8 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **Email:** [timbadiakrisha@example.com](mailto:timbadiakrisha@example.com)
-- **LinkedIn:** [Krisha's LinkedIn](https://www.linkedin.com/in/krisha-timbadia)
+- **Email:** [timbadiakrisha@example.com](mailto:timbadiakrisha@gmail.com)
+- **LinkedIn:** [Krisha's LinkedIn](https://www.linkedin.com/in/krisha-timbadia-422b01317)
 
 ## GitHub Statistics
 
